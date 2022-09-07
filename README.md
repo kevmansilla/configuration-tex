@@ -1,1 +1,1 @@
-# configuration-tex
+# Configuration for writing documents in latex
